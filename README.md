@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Andrews
 
-<!--
-**4ndrewss/4ndrewss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco atualmente em **Python** e **Desenvolvimento Web**.  
+Tenho interesse em **Back-End** e também em explorar tecnologias de Front-End para me tornar um desenvolvedor completo.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estudo
+- Python  
+- HTML, CSS e JavaScript  
+- Arduino (projetos acadêmicos)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em destaque
+- [BoiaSmart](https://github.com/4ndrewss/Projeto-Site-Arduino) – Monitoramento de nível de água com Arduino  
+- [CRUD Restaurante](https://github.com/4ndrewss/Projeto-Crud-FP) – Sistema CRUD em Python + Firebase  
+- [Gerador de Imagens IA](https://github.com/4ndrewss/projeto-gerador-imagens-andrews) – Protótipo em HTML e CSS 
+
+## 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/aqfs)  
+- [E-mail](mailto:andrewss.queiroz@email.com)
