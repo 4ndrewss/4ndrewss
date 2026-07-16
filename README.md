@@ -1,31 +1,33 @@
 # 👋 Olá, eu me chamo Andrews Queiroz
-
+ 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **CESAR School**.
-
-Vindo de uma formação técnica pelo SENAI, sou apaixonado por entender como as coisas funcionam "por baixo do capô". Atualmente meu foco está no **Back-End** e em **Engenharia de Dados**, explorando como transformar dados brutos em informação útil.
+ 
+Vindo de uma formação técnica pelo SENAI, sou apaixonado por entender como as coisas funcionam "por baixo do capô". Nesse 3º período aprendi **Java** e passei a construir aplicações full-stack com **Spring Boot**, unindo isso ao que já vinha explorando em Engenharia de Dados.
 
 🔭 **O que estou estudando agora:**
-* **Linguagens:** Aprimorando lógica com **C**, dominando **Python** e consultas com **SQL**.
-* **Dados:** Manipulação de dados com **PySpark** e **Databricks**.
-* **Web:** Criando interfaces e conexões com **JavaScript**, **HTML** e **CSS**.
+* **Back-End:** Consolidando **Java** e **Spring Boot** no desenvolvimento full-stack.
+* **Linguagens:** Aprimorando lógica com **C** e dominando **Python**.
+* **Dados:** Consultas em **SQL** e manipulação de dados com **PySpark** e **Databricks**.
+* **Web:** Criando interfaces e conexões com **JavaScript**, **Node**, **HTML** e **CSS**.
 
 🌱 **Meu objetivo:**
-Me tornar um desenvolvedor completo, unindo a organização da Engenharia de Dados com a criatividade do Desenvolvimento Web.
+Me tornar um desenvolvedor completo, unindo a organização da Engenharia de Dados com a solidez do Back-End e a criatividade do Desenvolvimento Web.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-* **Linguagens:** Python, C, JavaScript, SQL
+* **Linguagens:** Java, C, Python, JavaScript, SQL
+* **Back-End:** Spring Boot, Node
 * **Front-End:** HTML5, CSS3
-* **Dados & Tools:** Git, GitHub, PySpark, Firebase, VS Code
+* **Dados & Tools:** Git, GitHub, Maven, PySpark, Firebase, VS Code
 
 ### 📂 Projetos em destaque
 
-- **[RECIVA](https://github.com/4ndrewss/Projeto-R.E.C.I.V.A.)** – Product Design e Gestão Ágil de uma solução para vacinação (Figma + Trello).
+- **[Arena Pernambuco](https://github.com/ArchangelLoer/CESAR_Squad16)** – Plataforma de gestão de eventos com **Java + Spring Boot**, check-in de ingressos e dashboard ao vivo.
+- **[TrAI Questions](https://github.com/Eduardo-Borges18/TrAI-Questions)** – Projeto com **Node** e API da OpenAI, levado ao CoDay no Porto Digital; provas geradas e corrigidas por IA.
 - **[Ecos do Labirinto](https://github.com/4ndrewss/jogo-Ecos-do-Labirinto)** – Jogo desenvolvido em **Linguagem C** focado em lógica e estruturas de dados.
 - **[CRUD Restaurante](https://github.com/4ndrewss/Projeto-Crud-FP)** – Sistema de gestão completo em **Python** integrado com **Firebase**.
-- **[BoiaSmart](https://github.com/4ndrewss/Projeto-Site-Arduino)** – Solução IoT para monitoramento de nível de água com **Arduino**.
 
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/aqfs)  
